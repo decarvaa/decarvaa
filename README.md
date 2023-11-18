@@ -13,8 +13,8 @@
 ##
 
 <div>
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=decarvaa&" alt="decarvaa" />
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=decarvaa&label=Profile%20views&color=0e75b6&style=flat" alt="decarvaa" /> </p>
-
+  <a href="https://github.com/decarvaa">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=decarvaa&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decarvaa&layout=compact&langs_count=16&theme=blue"/>
 </div>
           
