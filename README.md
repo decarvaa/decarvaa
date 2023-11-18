@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Thanks for stopping by!</h1>
 
-<!--
-**decarvaa/decarvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h3 align="center">Programming languages</h3>
+  
+  <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rust" width="40" height="40"/>
+    </a> 
+  </p>
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=decarvaa&" alt="decarvaa" />
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=decarvaa&label=Profile%20views&color=0e75b6&style=flat" alt="decarvaa" /> </p>
+
+</div>
+          
