@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github.com/decarvaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=decarvaa&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decarvaa&layout=compact&langs_count=16&theme=blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=decarvaa&show_icons=true&theme=blue&include_all_commits=true&count_private=true&hide_title=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decarvaa&layout=compact&langs_count=16&theme=blue&hide_title=true"/>
 </div>
           
